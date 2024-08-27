@@ -1,0 +1,7 @@
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csprojAssemblyReference.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
